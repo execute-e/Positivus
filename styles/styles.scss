@@ -1,0 +1,9 @@
+@import 'normalize', 'fonts', 'mixins', 'media', 'variables', 'utils', 'globals';
+
+@import 'blocks/field', 'blocks/radios', 'blocks/radio', 'blocks/button', 'blocks/grid', 'blocks/burger-button', 'blocks/cross-button', 'blocks/mobile-overlay', 'blocks/header', 'blocks/hero', 'blocks/section';
+
+@import 'blocks/puddle-bg', 'blocks/services', 'blocks/service-card', 'blocks/banner', 'blocks/studies', 'blocks/process';
+
+@import 'blocks/team', 'blocks/team-card', 'blocks/pagination', 'blocks/reviews', 'blocks/review-card';
+
+@import 'blocks/contact-us', 'blocks/soc1als', 'blocks/subscribe-form', 'blocks/footer';
